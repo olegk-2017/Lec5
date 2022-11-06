@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Lec5</string>
     <string name="reminder">Reminder</string>
+    <string name="open_waze">open Waze</string>
+    <string name="call">Call</string>
 </resources>
